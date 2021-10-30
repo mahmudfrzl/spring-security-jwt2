@@ -1,0 +1,10 @@
+
+category:
+  swagger:
+    title: Category Service
+    description: Category Service Rest API
+    license: MIT License
+    licenseUrl: https://opensource.org/licenses/MIT
+    version: 1.0
+server:
+  port: 8081
